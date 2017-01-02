@@ -11,6 +11,8 @@ This is a list of chosen websites of mine, which won't be published on GitHub.
   - A Prague restaurant site - a desktop one, which was created as a pixel-perfct project
 - [Fitnessjidelnicky.cz](http://fitnessjidelnicky.cz)
   - A simple-looking WordPress-based site considering nutrition information
+- [Jidelnakarlov.cz](http://jidelnakarlov.cz/)
+  - A website of a school canteen.   
 
 ------
   
