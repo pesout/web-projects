@@ -1,6 +1,7 @@
 # Web Projects
 This is a list of chosen websites of mine, which won't be published on GitHub.
 
+
 - [Montessorivlasim.cz](http://montessorivlasim.cz)
   - A Czech website about an alternative small-town education of kids
 - [Stradashop.cz](http://stradashop.cz)
