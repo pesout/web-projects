@@ -16,6 +16,7 @@ This is a list of chosen websites of mine, which won't be published on GitHub.
 - [Jidelnakarlov.cz](http://jidelnakarlov.cz/)
   - A website of a school canteen.   
 
+
 ------
   
 - Don't forget checking out [my personal site](http://pesout.eu), [first](https://pesout.github.io/first-template) and [second](https://pesout.github.io/second-template) GitHub templates.
