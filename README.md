@@ -10,4 +10,4 @@ This is a list of chosen websites of mine, which won't be published on GitHub.
 
 ------
   
-- Don't forget checking out [my personal site](http://pesout.eu), [first](https://pesout.github.io/first-template) and [second](https://pesout.github.io/second-template) GitHub templates.
+- Don't forget checking out [first](https://pesout.github.io/first-template) and [second](https://pesout.github.io/second-template) GitHub templates.
